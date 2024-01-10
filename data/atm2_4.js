@@ -1,0 +1,1 @@
+var json_atm2_4 = {"type":"FeatureCollection","name":"atm2_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"ATM Bank Nagari RSU Adnan WD","X":100.63834,"Y":-0.22293},"geometry":{"type":"Point","coordinates":[100.6383447,-0.22293193]}}]}
